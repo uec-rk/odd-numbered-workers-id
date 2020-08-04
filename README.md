@@ -28,6 +28,6 @@ We require:
 
 1. Download training data and test data
 
-    + [data_train.csv](https://raw.githubusercontent.com/uec-rk/odd-numbered-workers-id/master/data_train.csv)
+    + [data_train.csv](https://drive.google.com/file/d/1cRYK4U9zjOZZnbzsOEgkBR4HOSgDgQ9h/view?usp=sharing)
 
-    + [data_test.csv](https://raw.githubusercontent.com/uec-rk/odd-numbered-workers-id/master/data_test.csv)
+    + [data_test.csv](https://drive.google.com/file/d/14Q3vAHk8MwY-uy0ZdwVgHGc38JYWxdzM/view?usp=sharing)
