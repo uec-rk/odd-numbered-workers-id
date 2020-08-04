@@ -1,1 +1,1 @@
-# odd-numbered-workers-id
+# Instruction for workers with odd-numbered Workers ID
