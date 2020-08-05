@@ -56,6 +56,9 @@ The steps of the analysis are as follows:
     Variables to predict _Target_ variable are _Cat1_, _Cat2_, _Num1_, ..., _Num19_.  
     Note that **<font color="orange">_Cat1_ and _Cat2_ are categorical variables</font>**.
 
+    Try to make a better performance model.  
+    The estimated maximum working time is 1 hour.
+
 1. Evaluate the performance of the model
 
     Evaluate the performance of the model using **<font color="orange">data_test.csv</font>**.  
