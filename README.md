@@ -60,6 +60,6 @@ The steps of the analysis are as follows:
 
     Evaluate the performance of the model using **<font color="orange">data_test.csv</font>**.  
     The results are saved as _result.txt_ in the current directory.  
-    **Copy the text in the result.txt and paste to the form in the machine learning survey.**
+    **Copy the text in the result.txt and paste it to the form in the machine learning survey.**
 
     ![predict](predict.png)
